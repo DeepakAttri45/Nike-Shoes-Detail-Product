@@ -28,16 +28,17 @@ Implement calculated columns and measures to derive meaningful insights.
        
 Design visually appealing and informative dashboards using Power BI.
 
-						:Insights and Recommendations:
+							:Insights and Recommendations:
 
 Analyze sales patterns, seasonality, and product preferences to identify key insights.
 Provide actionable recommendations to optimize sales strategies, inventory management, and marketing campaigns.
 
-						:Target Audience:
+							:Target Audience:
       
 This project is aimed at analysts, managers, and stakeholders involved in sales, marketing, and product management within the footwear industry. It provides valuable insights into Nike shoe sales performance and offers actionable recommendations for strategic decision-making.
 
-						:Conclusion:
+							:Conclusion:
+       
 By leveraging the power of SQL for data retrieval and Power BI for visualization and analysis, this project offers a comprehensive understanding of Nike shoe sales dynamics. Through detailed data analysis and visualization, stakeholders can make informed decisions to drive business growth and enhance customer satisfaction.
 
 
