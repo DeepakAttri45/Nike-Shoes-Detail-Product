@@ -7,7 +7,8 @@ The Nike Business Model is renowned for its production and sale of athletic and 
 
 SQL: Basic query operations including joins, group by, having, order by, etc., for data retrieval and manipulation.
 Power BI: Leveraging Power Query for data transformations, buttons, images, shapes, and other features for visualization and analysis.
-Project Details:
+
+:Project Details:
 
 							:Data Collection:
 
